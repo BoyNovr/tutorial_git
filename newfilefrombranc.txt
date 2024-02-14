@@ -1,3 +1,4 @@
 file baru dari new branch
 revisi bentrok dari new branch ke main
 git log ini akan hilang jika kembali ke commit sebelumnya.
+hsajajaj
