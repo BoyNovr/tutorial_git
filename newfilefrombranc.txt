@@ -1,2 +1,2 @@
 file baru dari new branch
-konflik branch baru revisi dari main
+revisi bentrok dari new branch ke main
