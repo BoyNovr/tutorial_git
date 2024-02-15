@@ -1,1 +1,2 @@
 ini file test untuk git stash
+ini akan error jika switch ke main 
